@@ -5,6 +5,8 @@ import { Avatar } from 'rebass'
 MDX is based on the [original `.mdx` proposal][idea] by Guillermo Rauch
 ([@rauchg][rauchg]).
 
+Blahblah
+
 The source code for MDX is available on [GitHub][].
 
 ## Design
